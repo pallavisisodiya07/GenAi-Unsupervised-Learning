@@ -1,4 +1,3 @@
-# GenAi-Unsupervised-Learning
 There are two primary categories of machine learning tactics. Supervised learning involves
 using labeled data to train a model that can later apply labels to new data. For example,
 suppose I had a bunch of photos of Labradors (a dog breed) that I wanted to separate into black
